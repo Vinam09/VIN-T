@@ -4,7 +4,7 @@ import profile from '../images/profile.png';
 function About() {
     return (
         <section id ="about">
-        <div className="xm:pt-64 sm:pt-40 lg2:mx-80 md:mx-48 xm:mx-36 sm:mx-8 2xl:pl-24 md:pl-2 sm:pl-0 max-w-5xl">
+        <div className="xm:pt-64 sm:pt-40 lg2:mx-80 md:mx-48 xm:mx-36 sm:mx-8 2xl:pl-36 md:pl-2 sm:pl-0 max-w-5xl">
             <h1 className="underline font-sans text-hovercolor text-3xl text-left sm:mb-10 xm:mb-6">About Me</h1>
 
             <div className="">

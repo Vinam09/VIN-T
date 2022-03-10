@@ -68,7 +68,7 @@ function Projects() {
 
     return (
         <section id="projects">
-            <div className="pt-40 lg2:mx-80 md:mx-48 xm:mx-36 sm:mx-8 2xl:pl-24 md:pl-2 xm:pl-0 max-w-5xl">
+            <div className="pt-40 lg2:mx-80 md:mx-48 xm:mx-36 sm:mx-8 2xl:pl-36 md:pl-2 xm:pl-0 max-w-5xl">
                <h1 className="underline font-sans text-hovercolor text-3xl text-left xm:mb-24 sm:mb-12">Projects</h1>
                <div className="mb-16">
 

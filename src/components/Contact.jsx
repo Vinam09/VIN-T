@@ -2,7 +2,7 @@ import React from 'react'
 
 function Contact() {
     return (
-        <section className="pt-20 xm:mb-44 sm:mb-24 lg2:mx-80 md:mx-48 xm:mx-36 sm:mx-8 2xl:pl-24 md:pl-2 sm:pl-0 max-w-5xl" id="contact">
+        <section className="pt-20 xm:mb-44 sm:mb-24 lg2:mx-80 md:mx-48 xm:mx-36 sm:mx-8 2xl:pl-36 md:pl-2 sm:pl-0 max-w-5xl" id="contact">
             <h1 className="underline font-sans text-hovercolor text-3xl text-left mb-4">Contact</h1>
             <h2 className="text-left font-body text-base mb-10 text-primary">
             If you have any questions or have any project/job opportunity for me or just want to chat, leave me a message and I will get back to you.</h2>
