@@ -1,6 +1,6 @@
 import React from 'react'
 import up from '../images/up.png';
-import down from '../images/down.png';
+
 
 function Right() {
     return (
