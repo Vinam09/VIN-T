@@ -21,7 +21,7 @@ const personalProjects = [
   {
     id: 6,
     picture: jsnotes,
-    name: 'Portfolio Website',
+    name: 'JS Notebook',
     hyperlink:
       'https://github.com/Vinam09/javascriptnotebook/blob/main/jsnotebook.gif',
     target: '_blank',
