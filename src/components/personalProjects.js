@@ -23,7 +23,7 @@ const personalProjects = [
     picture: jsnotes,
     name: 'JS Notebook',
     hyperlink:
-      'https://github.com/Vinam09/javascriptnotebook/blob/main/jsnotebook.gif',
+      'https://github.com/Vinam09/javascriptnotebook/blob/main/README.md',
     target: '_blank',
     gitlink: 'https://github.com/Vinam09/javascriptnotebook',
     skills: 'React, Redux, TypeScript',
